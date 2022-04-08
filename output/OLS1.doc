@@ -1,0 +1,30 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2160\clbrdrt\brdrs\cellx5472\clbrdrt\brdrs\cellx9072
+\ql \cell\qc (1)\cell\qc (2)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2160\cellx5472\cellx9072
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2160\clbrdrb\brdrs\cellx5472\clbrdrb\brdrs\cellx9072
+\ql VARIABLES\cell\qc No host specifications\cell\qc With host specifications\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2160\cellx5472\cellx9072
+\ql \cell\qc \cell\qc \cell\row
+\ql city_london\cell\qc 7.089***\cell\qc 7.111***\cell\row
+\ql \cell\qc (0.989)\cell\qc (0.990)\cell\row
+\ql property_type1\cell\qc 0.298\cell\qc 0.303\cell\row
+\ql \cell\qc (0.659)\cell\qc (0.660)\cell\row
+\ql room_type1\cell\qc -2.729*\cell\qc -2.679*\cell\row
+\ql \cell\qc (1.427)\cell\qc (1.428)\cell\row
+\ql bedrooms\cell\qc 0.116\cell\qc 0.118\cell\row
+\ql \cell\qc (0.411)\cell\qc (0.411)\cell\row
+\ql superhost1\cell\qc \cell\qc 1.161\cell\row
+\ql \cell\qc \cell\qc (1.134)\cell\row
+\ql hostpp1\cell\qc \cell\qc 6.185\cell\row
+\ql \cell\qc \cell\qc (8.375)\cell\row
+\ql Constant\cell\qc 85.59***\cell\qc 79.29***\cell\row
+\ql \cell\qc (1.811)\cell\qc (8.575)\cell\row
+\ql \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 3,710\cell\qc 3,710\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2160\clbrdrb\brdrs\cellx5472\clbrdrb\brdrs\cellx9072
+\ql R-squared\cell\qc 0.015\cell\qc 0.016\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
