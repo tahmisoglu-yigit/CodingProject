@@ -1,0 +1,8 @@
+Project summary
+In this project I use an Airbnb dataset of nightly rental prices in March 2017 that includes information on the price and various apartment features as well as information on hosts.
+Dataset covers Greater London and has 51646 observations.
+Dataset can be accessed from "https://gabors-data-analysis.com/datasets/#airbnb"
+In my analysis I have limited my attention to private room rentals on apartments in London city with hosts that are superhost, has profile picture, and are phone&email&facebook verified.
+I use Stata to analyze and edit the dataset for the needs of my analysis.
+
+To redo the analysis, simply use the " master.do " on Stata.
